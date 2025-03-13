@@ -1,5 +1,3 @@
----
-
 # **📌 AI-Powered Code Review System**  
 
 🚀 **AI-Powered Code Review System** is a **full-stack web application** that allows users to submit their code, receive **automated feedback** using **Gemini AI**, and save/retrieve code review history. It features **user authentication, chat history management, and a modern UI** for seamless interaction.  
