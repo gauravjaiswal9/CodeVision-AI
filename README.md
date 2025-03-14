@@ -139,8 +139,8 @@ npm run dev
 
 ## **🔹 Screenshots**  
 
-### **1️⃣ Home Page & Code Editor**  
-![Home](https://github.com/gauravjaiswal9/MultiCast_audio/blob/d1ea53fd360db2975136ce64785ad9f19957c5c5/1.png)
+### **1️⃣ Home Page & Login **  
+![Home](https://github.com/gauravjaiswal9/CodeVision-AI/blob/ba3b3c95fbcc3e35ddd887cd627cf8bc481e858c/img/Home.png)
 ![Login](https://github.com/gauravjaiswal9/CodeVision-AI/blob/78079db56ddd2f165da46fcfe42a0eb2ef7e9e84/img/Login.png)
 ![Signup](https://github.com/gauravjaiswal9/CodeVision-AI/blob/78079db56ddd2f165da46fcfe42a0eb2ef7e9e84/img/Signup.png)
 ### **2️⃣ AI Review & Feedback**  
