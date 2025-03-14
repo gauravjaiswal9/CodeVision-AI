@@ -140,10 +140,15 @@ npm run dev
 ## **🔹 Screenshots**  
 
 ### **1️⃣ Home Page & Code Editor**  
-![Code Editor]([https://via.placeholder.com/600x300](https://github.com/gauravjaiswal9/CodeVision-AI/blob/3528cc76e05c3642670b1f578ca31569321113f8/img/Home.png)https://github.com/gauravjaiswal9/CodeVision-AI/blob/3528cc76e05c3642670b1f578ca31569321113f8/img/Login.png)  
-
+![Home](https://github.com/gauravjaiswal9/MultiCast_audio/blob/d1ea53fd360db2975136ce64785ad9f19957c5c5/1.png)
+![Login](https://github.com/gauravjaiswal9/CodeVision-AI/blob/78079db56ddd2f165da46fcfe42a0eb2ef7e9e84/img/Login.png)
+![Signup](https://github.com/gauravjaiswal9/CodeVision-AI/blob/78079db56ddd2f165da46fcfe42a0eb2ef7e9e84/img/Signup.png)
 ### **2️⃣ AI Review & Feedback**  
-![AI Feedback](https://via.placeholder.com/600x300)  
+![AI Feedback](https://github.com/gauravjaiswal9/CodeVision-AI/blob/78079db56ddd2f165da46fcfe42a0eb2ef7e9e84/img/Code_editor1.png)
+![]((https://github.com/gauravjaiswal9/CodeVision-AI/blob/78079db56ddd2f165da46fcfe42a0eb2ef7e9e84/img/Review.png))
+![](https://github.com/gauravjaiswal9/CodeVision-AI/blob/78079db56ddd2f165da46fcfe42a0eb2ef7e9e84/img/Review%20(2).png)
+![History](https://github.com/gauravjaiswal9/CodeVision-AI/blob/78079db56ddd2f165da46fcfe42a0eb2ef7e9e84/img/History.png) 
+
 
 ---
 
