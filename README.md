@@ -140,7 +140,7 @@ npm run dev
 ## **🔹 Screenshots**  
 
 ### **1️⃣ Home Page & Code Editor**  
-![Code Editor](https://via.placeholder.com/600x300)  
+![Code Editor]([https://via.placeholder.com/600x300](https://github.com/gauravjaiswal9/CodeVision-AI/blob/3528cc76e05c3642670b1f578ca31569321113f8/img/Home.png)https://github.com/gauravjaiswal9/CodeVision-AI/blob/3528cc76e05c3642670b1f578ca31569321113f8/img/Login.png)  
 
 ### **2️⃣ AI Review & Feedback**  
 ![AI Feedback](https://via.placeholder.com/600x300)  
