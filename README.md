@@ -124,6 +124,17 @@ CodeVision-AI/
 
 ---
 
+## Screenshots
+![Home Page](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Home.png)
+![Login]([img/Login.png](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Login.png))
+![Signup](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Signup.png)
+![Code Editor](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Code_editor1.png)
+![](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Review.png)
+![](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Review%20(2).png)
+![](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/History.png)
+
+---
+
 ## 💡 Real-World Use Cases  
 - Helps **developers learn better coding practices**  
 - Acts as a **teaching assistant for students** learning Data Structures & Algorithms  
@@ -142,4 +153,3 @@ CodeVision-AI/
 ## 👨‍💻 Author  
 **Gaurav Kumar Jaiswal**  
 B.Tech ECE @ IIIT Nagpur | DSA & Full-Stack Developer  
-[LinkedIn](https://linkedin.com) | [GitHub](https://github.com)  
