@@ -126,7 +126,7 @@ CodeVision-AI/
 
 ## Screenshots
 ![Home Page](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Home.png)
-![Login]([img/Login.png](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Login.png))
+![Login](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Login.png)
 ![Signup](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Signup.png)
 ![Code Editor](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Code_editor1.png)
 ![](https://github.com/gauravjaiswal9/CodeVision-AI/blob/785413ac54db4312e0fca0f6a8945abecdd79511/img/Review.png)
