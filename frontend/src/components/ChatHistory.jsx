@@ -9,7 +9,7 @@ const ChatHistory = () => {
     const fetchHistories = async () => {
       const token = localStorage.getItem("token");
       try {
-        const res = await fetch("http://localhost:5000/api/chat-history", {
+        const res = await fetch("https://codevision-ai-8.onrender.com/api/chat-history", {
           headers: {
             "Content-Type": "application/json",
             "Authorization": `Bearer ${token}`,
