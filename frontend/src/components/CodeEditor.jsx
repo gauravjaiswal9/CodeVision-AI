@@ -25,7 +25,7 @@ const CodeEditor = () => {
       const fetchHistory = async () => {
         const token = localStorage.getItem("token");
         try {
-          const res = await fetch(`http://localhost:5000/api/chat-history/${historyId}`, {
+          const res = await fetch(`https://codevision-ai-8.onrender.com/api/chat-history/${historyId}`, {
             headers: {
               "Content-Type": "application/json",
               "Authorization": `Bearer ${token}`,
@@ -51,7 +51,7 @@ const CodeEditor = () => {
     setIsLoading(true);
     const token = localStorage.getItem("token");
     try {
-      const res = await fetch("http://localhost:5000/api/code/review", {
+      const res = await fetch("https://codevision-ai-8.onrender.com/api/code/review", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -81,7 +81,7 @@ const CodeEditor = () => {
     const token = localStorage.getItem("token");
     console.log("Saving chat with token:", token);
     try {
-      const res = await fetch("http://localhost:5000/api/chat-history", {
+      const res = await fetch("https://codevision-ai-8.onrender.com/api/chat-history", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
